@@ -121,7 +121,7 @@ search:
 comment:
     type: disqus
     # Disqus shortname
-    shortname: 'hieunh161'
+    shortname: 'gratuit-blog'
 # Donate plugin configurations
 # https://blog.zhangruipeng.me/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
