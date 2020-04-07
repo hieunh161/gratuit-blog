@@ -1,7 +1,10 @@
 ---
 title: 5 cấp độ của làm việc từ xa - và tại sao bạn có thể đang ở cấp độ 2
 date: 2020-04-07 16:51:40
+category: work-skill
 tags:
+  - soft-skill
+  - tips
 ---
 ![five level WFH](https://i.imgur.com/6g67zGf.png)
 
