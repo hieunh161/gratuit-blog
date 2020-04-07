@@ -11,9 +11,9 @@ Giờ đây, các tổ chức truyền thống ở các lĩnh vực như bất �
 
 Các cuộc gọi nhóm video call trên Zoom, như trong tấm ảnh dưới đây, được thực hiện bởi một số nhóm làm việc vừa bắt đầu làm quen với hình thức làm việc từ xa, đang tràn ngập trên Twitter và LinkedIn cũng như Facebook.
 
-![WFH](https://i.imgur.com/iiFUMEW.jpg)
-
 <!--more-->
+
+![WFH](https://i.imgur.com/iiFUMEW.jpg)
 
 ## Công ty Automattic
  
