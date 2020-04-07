@@ -3,6 +3,7 @@ title: 5 cấp độ của làm việc từ xa - và tại sao bạn có thể �
 date: 2020-04-07 16:51:40
 tags:
 ---
+![](https://imgur.com/6g67zGf)
 
 <strong>COVID-19</strong> đã buộc các công ty trên toàn thế giới phải ban hành - hoặc tạo ra - các phương thức làm việc từ xa. Các công ty như Box, Amazon, Airbnb, Facebook, Google và Microsoft đều đã và đang thử nghiệm với nhân viên của họ một số biến thể củahình thức làm việc từ xa.
 
@@ -10,7 +11,9 @@ Giờ đây, các tổ chức truyền thống ở các lĩnh vực như bất �
 
 Các cuộc gọi nhóm video call trên Zoom, như trong tấm ảnh dưới đây, được thực hiện bởi một số nhóm làm việc vừa bắt đầu làm quen với hình thức làm việc từ xa, đang tràn ngập trên Twitter và LinkedIn cũng như Facebook.
 
-![https://scontent.fkix2-2.fna.fbcdn.net/v/t1.0-9/92116839_889429491478120_5678105082101497856_n.png?_nc_cat=102&_nc_sid=32a93c&_nc_ohc=HuLmMsoOws4AX9W7Twe&_nc_ht=scontent.fkix2-2.fna&oh=96e9f98c398fc9859fe4d89a81f2b2ea&oe=5EB33097](work from home)
+![]([work from home](https://imgur.com/iiFUMEW))
+
+<!--more-->
 
 ## Công ty Automattic
  
