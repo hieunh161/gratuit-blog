@@ -1,7 +1,10 @@
 ---
 title: ecommerce-kpi
 date: 2020-04-30 23:30:48
-tags:
+category: retail
+tags: 
+    - retail
+    - e-commerce
 ---
 
 > Most businesses are data rich, but information poor.
@@ -21,6 +24,8 @@ Also known as the Average Market Basket, the AOV lets you know how much your cus
 It is an important ecommerce KPI and helps entrepreneurs to plan ahead.
 
 > Gross Profit = Total Cost of Goods Sold – Total Number of sales.
+
+<!--more -->
 
 3. Conversion Rate (CR)
 

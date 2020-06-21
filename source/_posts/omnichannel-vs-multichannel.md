@@ -1,6 +1,6 @@
 ---
 title: Omnichannel vs. Multichannel: Sự khác biệt cơ bản
-date: 2020-06-20 22:06:22
+date: 2020-06- 19 22:06:22
 tags: omnichannel
 Category: Retail
 ---
@@ -18,7 +18,7 @@ Các doanh nghiệp sẽ tự hỏi làm thế nào để họ vượt qua các 
 
 Omnichannel markettinng cho phép doanh nghiệp giữ tất cả các kênh trong 1 nơi trong khi thống nhất style và thông tin của chúng. Nhưng liệu nó có giải quyết vấn đề mà marketting đa kênh gặp phải.
 
-<!-- more -->
+<!--more -->
 
 ### Omnichannel vs. Multichannel – What is the Difference?
 

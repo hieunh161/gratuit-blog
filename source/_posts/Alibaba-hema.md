@@ -1,8 +1,10 @@
 ---
 title: Tìm hiểu về Hema, nền tảng của chiến lược new retail của Alibaba.
 date: 2020-06-21 22:04:42
-tags: retail, technology
-Category: Retail
+category: retail
+tags: 
+    - retail
+    - e-commerce
 ---
 
 
@@ -14,7 +16,7 @@ Jackma đưa ra thuật ngữ "New Retail" tại một cuộc họp ngắn với
 
 Trong khi nhiều người khen ngợi Amazon vì những nỗ lực của họ để pha trộn bán lẻ online và offline thông qua Amazon Go, nhưng theo nhiều cách thì họ đang phải đuổi theo Alibaba. Hema Xiansheng là chuỗi siêu thị Alibaba mở ra và năm 2016 và nó đã mở rộng tới 87 cửa hàng khắp Trung Quốc tới 10/2018 và dự định sẽ mở thêm 2000 cửa hàng nữa trong 5 năm tới.
 
-<!-- more -->
+<!--more -->
 ### New Retail là gì?
 
 Với những người chưa quen thuộc, New Retails ám chỉ tới sự hợp nhất của thương mại điện tử và cửa hàng truyền thống thông qua sự tích hợp cả trải nghiệm online và offline trên một chuỗi giá trị duy nhất. Thường được kết hợp với khái niệm ban đầu là O2O (Offline to Online), nhưng khác với O2O, New Retail thay đổi mô hình tương tác bằng cách kết hợp những thứ tốt nhất của cả online và offline bao gồm logistics, dữ liệu, thanh toán, các thiết bị thông minh và nhiều thứ khác nữa. 
