@@ -79,5 +79,3 @@ It is the percentage which represents your profit margin over a specific period 
 12. Revenue Per Click (RPC)
 
 It’s simply the average revenue for each click on all of your pay-per-click campaigns. It allocates a value to every paid click.
-
-

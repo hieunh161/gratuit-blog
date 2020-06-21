@@ -18,6 +18,8 @@ Các doanh nghiệp sẽ tự hỏi làm thế nào để họ vượt qua các 
 
 Omnichannel markettinng cho phép doanh nghiệp giữ tất cả các kênh trong 1 nơi trong khi thống nhất style và thông tin của chúng. Nhưng liệu nó có giải quyết vấn đề mà marketting đa kênh gặp phải.
 
+<!-- more -->
+
 ### Omnichannel vs. Multichannel – What is the Difference?
 
 Có nhiều người khi nhìn vào sẽ suy nghĩ đây là 2 từ có cùng nghĩa. Chúng đều có điểm chung là có nhiều kênh giao tiếp mà thông qua đó doanh nghiệp sẽ tiếp cận tới khách hàng của mình. Tuy nhiên chúng có những điểm khác biệt quan trọng dẫn tới các chức năng riêng biệt. 

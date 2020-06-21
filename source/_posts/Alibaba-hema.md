@@ -14,6 +14,7 @@ Jackma đưa ra thuật ngữ "New Retail" tại một cuộc họp ngắn với
 
 Trong khi nhiều người khen ngợi Amazon vì những nỗ lực của họ để pha trộn bán lẻ online và offline thông qua Amazon Go, nhưng theo nhiều cách thì họ đang phải đuổi theo Alibaba. Hema Xiansheng là chuỗi siêu thị Alibaba mở ra và năm 2016 và nó đã mở rộng tới 87 cửa hàng khắp Trung Quốc tới 10/2018 và dự định sẽ mở thêm 2000 cửa hàng nữa trong 5 năm tới.
 
+<!-- more -->
 ### New Retail là gì?
 
 Với những người chưa quen thuộc, New Retails ám chỉ tới sự hợp nhất của thương mại điện tử và cửa hàng truyền thống thông qua sự tích hợp cả trải nghiệm online và offline trên một chuỗi giá trị duy nhất. Thường được kết hợp với khái niệm ban đầu là O2O (Offline to Online), nhưng khác với O2O, New Retail thay đổi mô hình tương tác bằng cách kết hợp những thứ tốt nhất của cả online và offline bao gồm logistics, dữ liệu, thanh toán, các thiết bị thông minh và nhiều thứ khác nữa. 
@@ -109,9 +110,9 @@ https://youtu.be/dO4yUglO1n8
 
 ### Thanh toán 
 
-![img](https://miro.medium.com/max/6048/1*im5jMy4kL3HzyQ9xxNYscQ.jpeg)
+![Quầy thanh toán tự độn]g(https://miro.medium.com/max/6048/1*im5jMy4kL3HzyQ9xxNYscQ.jpeg)
 
-![img](https://miro.medium.com/max/2640/1*aPEm4q02sfPx3U28pOoECA.jpeg)
+![Tự động thanh toán bằng khuân mặt](https://miro.medium.com/max/2640/1*aPEm4q02sfPx3U28pOoECA.jpeg)
 
 Thanh toán tự động là quy chuẩn ở Hema, nó nhanh và dễ dàng đến mức có thể cho phép KH thanh toán bằng khuôn mặt, sử dụng công nghệ thanh toán bằng nhận diện khuôn mặt của Alipay. tất cả trải nghiệm đều ko cần tới tiền mặt. 
 
