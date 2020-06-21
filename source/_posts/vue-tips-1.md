@@ -468,4 +468,4 @@ components/
 ### Reference:
 
 [Vue official guide](https://vi.vuejs.org/v2/style-guide/index.html)
-[medium article](https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255)
+[Medium article](https://medium.com/js-dojo/vuejs-tips-best-practices-39d9962bb255)
