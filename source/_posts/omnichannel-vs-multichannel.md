@@ -1,6 +1,6 @@
 ---
 title: Omnichannel vs. Multichannel: Sự khác biệt cơ bản
-date: 2020-06- 19 22:06:22
+date: 2020-06-19 22:06:22
 tags: omnichannel
 Category: Retail
 ---
